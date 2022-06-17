@@ -1,5 +1,2 @@
-def action():
-    pass
-
-def action2():
+class User:
     pass
